@@ -1,6 +1,6 @@
 # To run App Locally 
 ## install these dependencies.
-npm install react-beautiful-dnd
+`npm install react-beautiful-dnd`
 ## Then configure your app with tailwind CSS using (https://tailwindcss.com/docs/guides/create-react-app) .
 
 `npm run start` to launch the project .
